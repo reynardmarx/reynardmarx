@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @reynardmarx
-- 👀 I’m interested in data analysis, marketing, machine learning and web app development
-- 🌱 I’m currently learning react.js and python
+- 👀 I’m interested in data science and software engineering
+- 🌱 I’m currently learning ML in forecasting
